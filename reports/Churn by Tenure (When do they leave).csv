@@ -1,0 +1,5 @@
+tenure_bucket,total_customers,churned_customers,churn_rate_pct
+"0-3 Months (Onboarding)",1650,909,55.09
+"4-6 Months (Adoption)",1296,715,55.17
+"7-12 Months (Habit)",2508,1033,41.19
+"12+ Months (Veteran)",9546,2126,22.27

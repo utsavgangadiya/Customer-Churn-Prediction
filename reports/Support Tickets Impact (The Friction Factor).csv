@@ -1,0 +1,4 @@
+support_bucket,total_customers,churned_customers,churn_rate_pct,avg_satisfaction
+"No Tickets",1699,245,14.42,3.64
+"Low Support (1-2)",6663,924,13.87,3.64
+"High Support (3+)",6638,3614,54.44,3.06

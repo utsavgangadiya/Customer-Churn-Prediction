@@ -1,0 +1,7 @@
+subscription_type,contract_type,total_customers,churned_customers,churn_rate_pct,avg_monthly_revenue,mrr_lost
+basic,monthly,2790,1433,51.36,29.85,42701.83
+standard,monthly,2684,1339,49.89,65.10,86911.33
+premium,monthly,1066,346,32.46,120.09,41490.91
+basic,yearly,3638,861,23.67,30.00,25805.26
+standard,yearly,3423,650,18.99,64.84,42031.81
+premium,yearly,1399,154,11.01,120.49,18720.82

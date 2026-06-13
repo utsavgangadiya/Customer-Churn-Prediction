@@ -1,0 +1,15 @@
+Feature,Mean_SHAP_Value
+last_login_days_ago,1.9807459
+satisfaction_score,1.4235028
+number_of_support_tickets,1.0908717
+contract_type_yearly,0.54311615
+tenure_months,0.4213553
+usage_frequency_low,0.3236475
+monthly_charges,0.1137471
+number_of_logins_per_month,0.100872986
+subscription_type_standard,0.035087623
+payment_method_Credit Card,0.008988177
+usage_frequency_medium,0.0064448686
+payment_method_PayPal,0.0044264956
+subscription_type_premium,0.0
+payment_method_Digital Wallet,0.0

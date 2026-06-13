@@ -1,0 +1,5 @@
+login_status,total_customers,churned_customers,churn_rate_pct,avg_satisfaction
+"Active (0-7 days)",5292,555,10.49,3.68
+"At Risk (8-14 days)",2629,331,12.59,3.67
+"High Risk (15-30 days)",3152,923,29.28,3.43
+"Dormant (30+ days)",3927,2974,75.73,2.76
