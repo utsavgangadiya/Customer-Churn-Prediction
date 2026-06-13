@@ -1,4 +1,4 @@
-````markdown
+
 # 📊 Customer Churn Prediction & Revenue Risk Analysis
 
 > An end-to-end Data Analytics, Machine Learning, SQL, and Power BI project that predicts customer churn, identifies high-risk customers, explains the reasons behind churn using Explainable AI (SHAP), and provides actionable business insights to reduce revenue loss.
